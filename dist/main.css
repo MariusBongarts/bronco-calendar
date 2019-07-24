@@ -3,3 +3,6 @@ body {
   margin: 0;
   font-family: Consolas, "Courier New", monospace; }
 
+bronco-side-navbar {
+  --bg-color: none; }
+
